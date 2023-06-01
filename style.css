@@ -188,6 +188,13 @@ body {
 
 .login-content .login-area .button:hover {
     background-color: #0467C3;
+    
+
+}
+.login-content .login-area .button:hover a{
+    color: white;
+}
+.login-content .login-area .button:hover i {
     color: white;
 }
 
